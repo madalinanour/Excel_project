@@ -1,5 +1,7 @@
-#This project is an interactive sales dashboard built in Excel using a dataset from Kaggle.
+# Sales Performance Dashboard
 
-#I processed the data to analyse revenue trends across various regions and product categories. I utilised Pivot Tables to summarise the information and implemented Slicers and Timelines for dynamic filtering. 
+This project was built in **Excel** using a dataset from **Kaggle**.
 
-#The final dashboard provides a clear visualisation of key performance indicators (KPIs) and monthly sales patterns.
+### Key Features:
+* **Interactivity:** Utilised **Pivot Tables** to summarise the information and implemented **Slicers** and **Timelines** for dynamic filtering.
+* **Visualisation:** The final dashboard provides a clear view of key performance indicators (**KPIs**) and monthly sales patterns.
